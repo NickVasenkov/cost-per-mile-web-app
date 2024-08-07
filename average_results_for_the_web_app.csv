@@ -1,0 +1,5 @@
+Route,Truck Model,Trailer Model,cost_per_mile,Route Type,Origin,Destination
+unload-load-loop-c0002/r00001-001/c0001,eCascadia CI8 6x4,40 Ft Container Chassis,0.35351343312114464,unload-load-loop,"Ontario, CA","Long Beach, CA"
+unload-load-loop-c0002/r00001-001/c0001,eCascadia CI8 6x4,20 Ft 2-Axle Chassis,0.34439629266839905,unload-load-loop,"Ontario, CA","Long Beach, CA"
+unload-load-loop-c0002/r00001-001/c0001,eCascadia CI8 6x4,Dry van 53 ft (no tri-axle),0.49451650170250105,unload-load-loop,"Ontario, CA","Long Beach, CA"
+unload-load-loop-c0002/r00001-001/c0001,eCascadia CI8 6x4,Flatbed 53 ft (no tri-axle),0.3988041554746567,unload-load-loop,"Ontario, CA","Long Beach, CA"
